@@ -1,2 +1,3 @@
 # BI-Analysis
-My Power BI Project Portfolio
+
+Repository created to share projects and analyses developed through Power BI
