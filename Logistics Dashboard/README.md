@@ -27,3 +27,6 @@ Freight Evolution: Temporal analysis of freight value.
 Weight and Cubic Meters Transported: Measurement of the total weight and cubic meter of the transported loads.
 
 Performance by Region: Regional performance based on on-time and off-time deliveries.
+
+Result:
+![image](https://github.com/user-attachments/assets/398a15a0-c00f-4feb-9e7e-5ecf16f5ff0f)
