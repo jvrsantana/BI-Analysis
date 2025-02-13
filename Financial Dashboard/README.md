@@ -16,10 +16,14 @@ over time, identifying periods of greater variation and enabling the planning of
 
 4. Expenses by Sector: Analyze the sectors that incur the most expenses to identify savings opportunities.
 
-Key Performance Indicators (KPIs)
+Key Performance Indicators (KPIs):
 
 Total Revenue: Measure the total revenue generated during the period analyzed to understand profitability.
 
 Total Expenses: Quantify total expenses to identify areas for cost reduction.
 
 Balance: Compare income and expenses to obtain the final available balance.
+
+Result:
+
+![image](https://github.com/user-attachments/assets/c6fa6ac1-0e47-4cd0-ab2d-b09f02bae3b1)
