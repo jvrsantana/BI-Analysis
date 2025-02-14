@@ -29,4 +29,5 @@ Key Performance Indicators (KPIs)
 6. Representation by Type of Transport: Measure the distribution of revenue by different types of transport (Boat, Truck, Plane).
 
 Result:
+![image](https://github.com/user-attachments/assets/4f0ab931-2634-4201-baf4-ae39c07d550f)
 
